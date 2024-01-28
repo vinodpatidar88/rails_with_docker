@@ -8,6 +8,12 @@ gem "rails", "~> 7.0.8"
 
 gem 'pry'
 
+gem 'activeadmin'
+
+gem 'devise', '~> 4.8', '>= 4.8.1'
+
+gem 'sassc'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
